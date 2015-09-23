@@ -1,1 +1,2 @@
-config.ru
+require './hi'
+run Sinatra::Application
